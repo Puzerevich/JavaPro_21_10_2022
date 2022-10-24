@@ -28,6 +28,9 @@ target/
 .idea/
 out/
 
+# Git
+.git/
+
 # Unit test reports
 TEST*.xml
 
