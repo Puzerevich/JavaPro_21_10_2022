@@ -8,12 +8,6 @@ foo.txt
 '#' except foo.html which is maintained by hand.
 !foo.html
 
-'#' Ignore objects and archives.
-*.[oa]
-.idea/
-.target/
-.out/
-
 # Node artifact files
 node_modules/
 dist/
